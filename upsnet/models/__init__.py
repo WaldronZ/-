@@ -1,0 +1,2 @@
+from .resnet_upsnet import resnet_50_upsnet, resnet_101_upsnet
+from .efficientnet_upsnet import efficientnet_b0_upsnet
